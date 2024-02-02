@@ -1,3 +1,3 @@
-# Parallax_Engine
+# Paradox_Engine
 
 ![Imgur](https://i.imgur.com/zKG28mb.png)
